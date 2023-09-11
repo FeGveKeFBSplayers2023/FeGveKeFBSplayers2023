@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>What is the Deep Fake?</title>
+    <link rel="stylesheet" href="deepfake.css">
+</head>
+<body>
+    <a href="cyberworld.html">Home</a>
+    <table>
+        <tr>
+            <td>
+               <p><h2>DeepFake:</h2> Deepfake is an animation made by making subtle changes to a person's photos, playing their muscles and facial expressions, and adjusting a sound in the background. It is suitable for deepfake if it takes pictures of a person and produces all the letters of the alphabet from a to z as sounds at least once. With this deepfake, people can be deceived and dragged into illegal business. To protect yourself from this, you should not share your own photos, sounds or hobbies. It is very difficult to distinguish whether deepfake animations are real or not, so do not share your personal things with anyone to avoid becoming a victim.</p>
+            </td>
+            <td>
+                <img src="" alt="">
+            </td>
+        </tr>
+    </table>
+</body>
+</html>

@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cyber Attacks?</title>
+    <link rel="stylesheet" href="cybers.css">
+</head>
+<body>
+
+    <div class="home">
+        <a href="cyberworld.html">Home</a>
+    </div>
+    
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        
+        
+    </head>
+    <body>
+     
+        <table>
+            <tr>
+                <td>
+                    <p><h2>Maleware:</h2> Malware is a very broad field including Wipers, Worms, Parasites, Crypto Mining Software and Trojans. These can cause many terrible events such as crashing the computer, doing a job in the background, tiring and burning the processor (CPU), exploding disks, that is, your storage space, and spreading your private information on the internet (credit card information, IP Address, Social media accounts).</p> <br>
+                </td>
+                <td>
+                    <img src="" alt="" class="image" id="logo"> <br>
+                </td>
+            </tr>
+        </table>
+        <table>
+            <tr>
+                <td>
+                     <p><h2>Ddos Attack</h2> DDoS attack (Distributed Denial of Service attack) occurs when the resources or bandwidth of the target system is invaded on multiple systems, these are usually one or more web servers. Ddos attack is one of the most powerful attacks. It is mostly aimed at crashing a system. Moreover, Ddos attack can be made on phones, tablets, televisions (if they can access the internet), in short, all devices that can access the internet.</p>
+                </td>
+                <td>
+                    <img src="" alt="" class="image2" id="logo">
+                </td>
+            </tr>
+        </table>
+        <table>
+            <tr>
+                <td>
+                    <p><h2>Ransoware(A Type of Maleware):</h2> Ransomware is a type of malware. Their purpose is from you Their aim is to get some Bitcoin, or rather, their aim is to steal Bitcoin from you because they do this by force. So why are they so dangerous? These types of viruses lock your computer, your files are encrypted, and your data is deleted after a certain period of time. If you have bought a new computer or phone, it is not a big problem because ransomware viruses have a kind of timer. When this period ends, your data will either be deleted or leaked to the internet. This is fine for a new computer, but if you work in a company and a ransomware virus has taken over your computer, the longer you wait, the worse it will be for you. The most terrible ransomware virus in history is WannaCry, this virus was able to find computer vulnerabilities and infiltrate your computer and spread in the form of a worm virus and was one of the most terrible computer viruses that took over approximately 230,000 computers.</p>
+                </td>
+                <td>
+                    <img src="" alt="" class="image3" id="logo">
+                </td>
+            </tr>
+        </table>
+        <table>
+            <tr>
+                <td>
+                   <p><h2>Phishing:</h2> Phishing, in this type of attack, does not mean crashing a system or infiltrating a system. The aim is to reach a person's credit card information, IP address, social media accounts he uses. They do this by creating a website, when people (users, victims) enter these websites, their IP addresses and social media accounts can fall into the hands of the other person (hackers). For example, let's say you have a site called 'freebluetick.com'. If you send the URL of this site to a friend and that friend clicks on the site, he/she will have the IP address. (IP address: The location of the person, the coordinates of where he/she lives and a number required for a cyber attack on that person.)</p>
+                </td>
+                <td>
+                    <img src="" alt="" class="image4" id="logo">
+                </td>
+            </tr>
+        </table>
+        <table>
+            <tr>
+                <td>
+                <p><h2>Man in the Middle:</h2> A man-in-the-middle attack is a type of attack in which the attacker secretly transmits or modifies communications between two parties that communicate directly with each other. Data packets circulate freely over the communication network. Especially broadcast packets can be seen by all devices connected to the same network. This attack is one of the dangerous attacks because some packages can be sent and these packages may contain viruses, and when this infected package is opened, the attacker not only captures the person's IP address but also infiltrates the person's device, which means he can perform an .exe injection attack. it can be tried.</p>
+                <td>
+                    <img src="" alt="" class="logo5" id="logo">
+                </td>
+            </tr>
+        </table>
+        <table>
+            <tr>
+                <td>
+                   <p><h2>.exe-Injection Attack:</h2> The .exe Injection is not a well-known type of attack, but its consequences are terrifying. The attacker sends a file to the target IP address (empty or a file containing a virus), and when the victim opens this file, the victim's IP address is obtained by the attacker and not only that, the attacker has infiltrated the system and the device. It can disable antiviruses, make the file look like a normal work file, make it look like an application, listen to it, access the camera, etc. It can do many scary things, so be careful about the files sent to you, do not open them and delete them if necessary.</p>
+                </td>
+                <td>
+                    <img src="" alt="" class="logo6">
+                </td>
+            </tr>
+        </table>
+        <table>
+            <tr>
+                <td>
+                   <p><h2>SQL Injection:</h2> SQL Injection attack can be solved by deleting SQL commands into SQL queries of web applications. A successful SQL injection attack allows a malicious programmer to access and manipulate a web-based database, and the attacker can manipulate, corrupt, and copy data and steal social media accounts.</p>
+                </td>
+                <td>
+                    <img src="" alt="" class="logo7">
+                </td>
+            </tr>
+        </table>
+        <table>
+            <tr>
+                <td>
+                   <p><h2>Zero Day Attack:</h2> Zero-day attack is related to vulnerabilities of a device. Black hat hackers find these vulnerabilities and either infiltrate the device or sell them for Bitcoin on places like the Dark Web. There may be many hackers who buy this offer, and if the hackers who buy this offer infiltrate the vulnerable device multiple times and collect information (they can access a lot of personal information such as IP address, credit card information), do not postpone the updates. An update will take you to the dark web. It can spread.</p>
+                </td>
+                <td>
+                    <img src="" alt="" class="logo8">
+                </td>
+            </tr>
+        </table>
+        <table>
+            <tr>
+                <td>
+                   <p><h2>Session Hijacking Attack:</h2> Session Hijacking, in this type of attack, data or services on the computer can be accessed without authorization. In this attack, a file is created and sent to the target IP address, and when this file is opened, the cookies that the target accepts are copied and given to the attacker, including social media accounts. for example Cookies were accepted in a social media account and an account and password were created, and the attacker threw a file at this innocent person, and because the target person opened this file, it was copied with a cookie and passed to the attacker, now the attacker can also enter the social media account.</p>
+                </td>
+                <td>
+                    <img src="" alt="" class="logo9">
+                </td>
+            </tr>
+        </table>
+        <table>
+            <tr>
+                <td>
+                   <p><h2>Evil Twin Attack:</h2> Evil Twin, there are many types of this attack. One of the scariest types is that the attacker can instantly see what the devices connected to the internet connection are doing. The other is that a message comes to the modem or internet owner's device and the message reads as follows; 'We need to make an update to your modem' or 'your internet connection, so please enter your internet/modem password:' If you fall for this message and enter your internet or modem password, the entered internet or modem password falls into the hands of the attacker.</p>
+                </td>
+                <td>
+                    <img src="" alt="" class="logo10">
+                </td>
+            </tr>
+        </table>
+
+        <script>
+            window.scrollBy(10, 1000);
+        </script>
+    </body>
+    </html>

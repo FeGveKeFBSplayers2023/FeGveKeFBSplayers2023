@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body{
+    min-height: 100vh;
+    background: url(1525251603-hackerlar-c-ald-klar-s-ifreleri-nas-l-paraya-c-eviriyor-3-.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+}
+
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px 100px;
+    background: rgb(1, 1, 37);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 100;
+}
+
+.logo{
+    font-size: 32px;
+    color: #fff;
+    text-decoration: none;
+    font-weight: 700;
+}
+
+.navbar a{
+    font-size: 19px;
+    color: #fff;
+    text-decoration: none;
+    font-weight: 400;
+    margin-left: 28px;
+}
+
+.navbar a:hover{
+    color: rgb(78, 9, 9);
+}
+
+.header .logo:hover{
+    color: rgb(11, 111, 204);
+}
+

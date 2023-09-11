@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data Breach</title>
+    <link rel="stylesheet" href="dataBreach.css">
+</head>
+<body>
+    <a href="cyberworld.html">Home</a>
+    <table>
+        <tr>
+            <td>
+               <p><h2>What is a data breach</h2> A data breach is the leak or disclosure of sensitive or confidential protected data by an unauthorized party. In order to avoid a data breach, no one else should look after your computer or the device you are using (if there is no private information in it), hackers can apply brute force attacks to capture data. In this, you should make strong passwords, but you should not forget the password you made and you should not tell anyone, if you receive a lot of site names (url) that you do not know or are not sure of, do not click on any of them, this phishing attack wants to steal or violate your data. A data breach is not only with top secret files, but if someone else sees and does not store your information, it will be a data breach, so do not click on sites you do not know and are not sure about, do not open files that you do not know, if you notice anything strange, you can write to me.</p>
+               <a href="https://www.youtube.com/@Code-CyberSecurity/about">If you notice anything strange on your device, you can contact me, my friend.</a>
+            </td>
+            <td>
+                <img src="" alt="" class="databreach-logo">
+            </td>
+        </tr>
+    </table>
+</body>
+</html>

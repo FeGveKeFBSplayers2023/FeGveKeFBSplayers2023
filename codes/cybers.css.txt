@@ -1,0 +1,26 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+#logo{
+    width: 200px;
+    height: auto;
+}
+
+.logo7{
+    width: 200px;
+    height: auto;
+}
+
+.logo8{
+    width: 200px;
+    height: auto;
+}
+
+.logo9 {
+    width: 200px;
+    height: auto;
+}

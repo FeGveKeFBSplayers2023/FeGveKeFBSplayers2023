@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cyber World</title>
+    <link rel="stylesheet" href="cyberworld.css">
+</head>
+<body>
+    <header class="header">
+        <a href="cyberworld.html" class="logo">Cyber World</a>
+
+        <nav class="navbar">
+            <a href="cybers.html">Cyber Attacks?</a>
+            <a href="security.html">Cyber Security?</a>
+            <a href="deepfake.html">DeepFakes?</a>
+            <a href="datab.html">Data Breach?</a>
+            <a href="https://www.youtube.com/@Code-CyberSecurity/about">Click!</a>
+        </nav>
+    </header>
+
+</body>
+</html>

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="security.css">
+</head>
+<body>
+    <a href="cyberworld.html">Home</a>
+    <table>
+        <tr>
+            <td>
+               <p><h2>What is the Cyber Security?</h2> Cyber ​​Security is ensuring the integrity of information while storing or transporting information or data in the virtual environment. Elements that threaten cyber security are black hat hackers, viruses, websites and advertisements. In order to be protected from these, user awareness on the internet is very important. If the user can distinguish between right and wrong in the virtual world, this can ensure his/her safety. Secondly, updates, black hat hackers sometimes look for device vulnerabilities to access people's information, and these small vulnerabilities can cause big problems. In order to close these vulnerabilities, the user must make updates without interruption. Do not download files from the Internet (except from reliable and well-known sites unless necessary). These files may not be completely clean inside. It may contain viruses, trojans, or viruses that may cause you financial harm (such as ransomware, trojans). Do not enter the websites in the messages sent to you, because some people can create a backdoor on the websites they design (Backdoor: when the user enters the desired site, they can access the IP address, credit card information, phone number, passwords used and user accounts). Some of your important files must be transferred in cloud accounts. Strong but knowable passwords should be created. Information should not be shared with anyone.</p> 
+            </td>
+            <td>
+                <img src="" alt="" class="logo11" id="">
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
